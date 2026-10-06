@@ -1,0 +1,2 @@
+# Preguntas-BADA-NoSQL
+Entrega 
